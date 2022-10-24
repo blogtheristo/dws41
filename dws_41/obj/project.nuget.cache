@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4olaPZJRlo57sajpQSrgoo7xLlrO9tCwtYYg94Rl3fORfBYwBbrCdMEqcc9RllHsqbqGGUC0Q80szfYcmUcHhQ==",
+  "success": true,
+  "projectFilePath": "/Users/ristopaarni/Projects/dws_41/dws_41/dws_41/dws_41.csproj",
+  "expectedPackageFiles": [
+    "/Users/ristopaarni/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/ristopaarni/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/ristopaarni/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/ristopaarni/.nuget/packages/xamarin.essentials/1.7.3/xamarin.essentials.1.7.3.nupkg.sha512",
+    "/Users/ristopaarni/.nuget/packages/xamarin.forms/5.0.0.2515/xamarin.forms.5.0.0.2515.nupkg.sha512"
+  ],
+  "logs": []
+}

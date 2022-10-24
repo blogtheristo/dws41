@@ -1,0 +1,14 @@
+/Users/ristopaarni/Projects/dws_41/dws_41/dws_41/bin/Debug/netstandard2.0/dws_41.deps.json
+/Users/ristopaarni/Projects/dws_41/dws_41/dws_41/bin/Debug/netstandard2.0/dws_41.dll
+/Users/ristopaarni/Projects/dws_41/dws_41/dws_41/bin/Debug/netstandard2.0/ref/dws_41.dll
+/Users/ristopaarni/Projects/dws_41/dws_41/dws_41/bin/Debug/netstandard2.0/dws_41.pdb
+/Users/ristopaarni/Projects/dws_41/dws_41/dws_41/obj/Debug/netstandard2.0/dws_41.csproj.AssemblyReference.cache
+/Users/ristopaarni/Projects/dws_41/dws_41/dws_41/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ristopaarni/Projects/dws_41/dws_41/dws_41/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ristopaarni/Projects/dws_41/dws_41/dws_41/obj/Debug/netstandard2.0/dws_41.AssemblyInfoInputs.cache
+/Users/ristopaarni/Projects/dws_41/dws_41/dws_41/obj/Debug/netstandard2.0/dws_41.AssemblyInfo.cs
+/Users/ristopaarni/Projects/dws_41/dws_41/dws_41/obj/Debug/netstandard2.0/dws_41.csproj.CoreCompileInputs.cache
+/Users/ristopaarni/Projects/dws_41/dws_41/dws_41/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ristopaarni/Projects/dws_41/dws_41/dws_41/obj/Debug/netstandard2.0/dws_41.dll
+/Users/ristopaarni/Projects/dws_41/dws_41/dws_41/obj/Debug/netstandard2.0/ref/dws_41.dll
+/Users/ristopaarni/Projects/dws_41/dws_41/dws_41/obj/Debug/netstandard2.0/dws_41.pdb
